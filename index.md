@@ -12,5 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [editor2,+3615-ok](ebook/editor2,+3615-ok.pdf) – Rushendi & Ismuharti (2023)
 9. [16741-40846-1-SM](ebook/16741-40846-1-SM.pdf) – Arina Faila Saufa, dkk (2017)
 10. [admin,+Jusa](ebook/admin,+Jusa.pdf) – Agus Wahyudi & Jusa Junaedi (2021)
+11. [Ringkasan Pemaparan UGC_Dzakiyan Muhammad Dree Nugroho](ebook/Ringkasan Pemaparan UGC_Dzakiyan Muhammad Dree Nugroho.pdf) – Dzakiyan Muhammad Dree Nugroho (2026)
 ---
 *Powered by GitHub Pages*
