@@ -10,6 +10,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 6. [admin,+visi+pustaka+2018+vol+3D](ebook/admin,+visi+pustaka+2018+vol+3D.pdf) – Dwi Untari, dkk (2018)
 7. [editor2,+3179-ok](ebook/editor2,+3179-ok.pdf) – Savira Taryani & Luki Wijayanti (2023)
 8. [editor2,+3615-ok](ebook/editor2,+3615-ok.pdf) – Rushendi & Ismuharti (2023)
-9. 
+9. [16741-40846-1-SM](ebook/16741-40846-1-SM.pdf) – Arina Faila Saufa, dkk (2017)
+10. [admin,+Jusa](ebook/admin,+Jusa.pdf) – Agus Wahyudi & Jusa Junaedi (2021)
 ---
 *Powered by GitHub Pages*
