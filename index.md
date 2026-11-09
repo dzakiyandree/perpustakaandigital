@@ -7,6 +7,9 @@ Berikut ini adalah Koleksi yang dimiliki:
 3. [23028-46943-1-PB](ebook/23028-46943-1-PB.pdf) – Dewi Nur Fitriyani & Sri Ati (2017)
 4. [584-1188-1-PB](ebook/584-1188-1-PB.pdf) – Rhoni Rodin (2016)
 5. [aria,+3290-8951-1-RV_4](ebook/aria,+3290-8951-1-RV_4.pdf) – Ayu Puspa Arum & Yoana Marfianti (2021)
-6. 
+6. [admin,+visi+pustaka+2018+vol+3D](ebook/admin,+visi+pustaka+2018+vol+3D.pdf) – Dwi Untari, dkk (2018)
+7. [editor2,+3179-ok](ebook/editor2,+3179-ok.pdf) – Savira Taryani & Luki Wijayanti (2023)
+8. [editor2,+3615-ok](ebook/editor2,+3615-ok.pdf) – Rushendi & Ismuharti (2023)
+9. 
 ---
 *Powered by GitHub Pages*
